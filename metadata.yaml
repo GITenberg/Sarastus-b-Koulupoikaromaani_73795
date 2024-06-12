@@ -1,0 +1,25 @@
+_repo: Sarastus-b-Koulupoikaromaani_73795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Helanen, Vilho
+    gutenberg_agent_id: '57220'
+    url: http://www.gutenberg.org/2009/agents/57220
+description: ''
+gutenberg_issued: '2024-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73795'
+language: fi
+pgterms:marc905: 20240603093816helanen
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sarastus : $b Koulupoikaromaani'
+url: http://www.gutenberg.org/ebooks/73795
