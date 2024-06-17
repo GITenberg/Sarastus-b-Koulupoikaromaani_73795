@@ -1,11 +1,16 @@
 _repo: Sarastus-b-Koulupoikaromaani_73795
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Helanen, Vilho
     gutenberg_agent_id: '57220'
     url: http://www.gutenberg.org/2009/agents/57220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73795#Sarastus-b-Koulupoikaromaani
 gutenberg_issued: '2024-06-08'
 gutenberg_type: Text
 identifiers:
